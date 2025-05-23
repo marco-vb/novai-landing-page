@@ -17,7 +17,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center">
             <Image
-              src="/images/novai-logo.svg"
+              src="/images/novai-logo.png"
               alt="nov.ai Logo"
               width={150}
               height={50}
@@ -170,7 +170,7 @@ export default function Home() {
                   <div className="text-center">
                     <div className="flex justify-center mb-4">
                       <Image
-                        src="/images/novai-logo.svg"
+                        src="/images/novai-logo.png"
                         alt="nov.ai Logo"
                         width={100}
                         height={33}
@@ -413,7 +413,7 @@ export default function Home() {
           <div className="grid md:grid-cols-4 gap-8">
             <div>
               <Image
-                src="/images/novai-logo.svg"
+                src="/images/novai-logo.png"
                 alt="nov.ai Logo"
                 width={120}
                 height={40}
